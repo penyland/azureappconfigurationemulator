@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/samples/">
+    <Project Path="samples/SampleApi/SampleApi.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/AzureAppConfigurationEmulator.Api/AzureAppConfigurationEmulator.Api.csproj" />
+  </Folder>
+</Solution>
